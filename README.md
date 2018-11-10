@@ -1,2 +1,4 @@
 # surface-emg
-A repository for Surface EMG project development
+Development of a sEMG device for Parkinson's tremor cancelling
+
+Contributors: Dom Kirkham, Cihat Cengiz, Filip Wronowski, Alexandra Badut
